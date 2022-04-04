@@ -48,4 +48,4 @@ mySLL.insertAtBack(3);
 mySLL.insertAtBack(4);
 mySLL.insertAtBack(5);
 console.log(mySLL);
-mySLL.toArray();
+console.log(mySLL.toArray());
