@@ -47,5 +47,6 @@ var mySLL = new SLL();
 mySLL.insertAtBack(3);
 mySLL.insertAtBack(4);
 mySLL.insertAtBack(5);
+mySLL.insertAtBack(6);
 console.log(mySLL);
 console.log(mySLL.toArray());
